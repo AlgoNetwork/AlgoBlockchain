@@ -6,9 +6,4 @@ accounts:
 validator:
   name: gerald
   staked: "100000000stake"
-genesis:
-  chain_id:"algonet"
-  app_state:
-    staking:
-      params:
-        bond_denom:"stake"
+
