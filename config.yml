@@ -7,7 +7,7 @@ validator:
   name: gerald
   staked: "100000000stake"
 genesis:
-  chain_id:"algo"
+  chain_id:"algonet"
   app_state:
     staking:
       params:
